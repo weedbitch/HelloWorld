@@ -20,4 +20,9 @@ public class MainActivity extends Activity {
         return true;
     }
     
+    
+    public void testFromlaptop() {
+    	
+    }
+    
 }
